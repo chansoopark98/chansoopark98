@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 # Hi there, I'm Chan Soo Park 👋
 
 ## About Me
@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about [topics you are knowledgeable about]
 - 📫 How to reach me: [your email or other contact info]
 - ⚡ Fun fact: [a fun fact about you]
+-->
 
 ## GitHub Stats
 ![Chan Soo Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=chansoopark98&show_icons=true&theme=radical)
