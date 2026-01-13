@@ -1,38 +1,50 @@
-## Hi there 👋
+<!-- Profile README for chansoopark98 -->
 
-<!--
-**chansoopark98/chansoopark98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="left">Chansoo Park (chansoopark98) 👋</h1>
 
-Here are some ideas to get you started:
+<p align="left">
+AI Lead @ <b>SERDIC</b> · Visual SLAM · 3D Reconstruction · Computer Vision · DL Optimization
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--
-# Hi there, I'm Chan Soo Park 👋
+<p align="left">
+  <a href="https://github.com/chansoopark98">
+    <img src="https://img.shields.io/badge/GitHub-chansoopark98-181717?logo=github&logoColor=white" />
+  </a>
+  
+  ![Visitors](https://komarev.com/ghpvc/?username=chansoopark98)
 
-## About Me
-- 🔭 I’m currently working on [your current project]
-- 🌱 I’m currently learning [technologies or skills you're learning]
-- 👯 I’m looking to collaborate on [projects or areas of interest]
-- 💬 Ask me about [topics you are knowledgeable about]
-- 📫 How to reach me: [your email or other contact info]
-- ⚡ Fun fact: [a fun fact about you]
--->
+</p>
 
-## GitHub Stats
+---
 
-[![Chansoo Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=chansoopark98)](https://github.com/anuraghazra/github-readme-stats)
+## 👨‍💻 About
+- 🏢 **AI Lead @ SERDIC**
+- 🎓 **M.S.** Plasma Bio Display, **KwangWoon University**
+- 🎓 **B.S.** Computer Science, **KwangWoon University**
+- 🔭 Interests: **Visual SLAM**, **3D Reconstruction**, **2D/3D Computer Vision**, **Deep Learning Optimization**
 
+---
 
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chansoopark98&layout=compact&theme=radical)
+## 🧩 Keywords
+`Visual SLAM` · `VO/VIO` · `3D Reconstruction` · `Depth` · `Pose` · `NeRF / Gaussian Splatting` ·  
+`Detection/Segmentation` · `TensorRT/ONNX` · `CUDA Optimization` · `Edge/Real-time`
 
-## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/your-profile)](https://www.linkedin.com/in/your-profile)
+---
+
+## 🧰 Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white)
+
+### Deep Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-000000?logo=google&logoColor=white)
+
+### Frontend / App
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+
+---
