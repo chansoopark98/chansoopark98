@@ -27,7 +27,9 @@ Here are some ideas to get you started:
 -->
 
 ## GitHub Stats
-![Chan Soo Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=chansoopark98&show_icons=true&theme=radical)
+
+[![Chansoo Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=chansoopark98)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chansoopark98&layout=compact&theme=radical)
